@@ -5,6 +5,9 @@ Testing VR with 3D Metabolism!
 THTRE399e 2023W2 course project. A transformative virtual reality experience for learning about metabolism in an interactive and 
 exciting learning environment!
 
+[![Watch the demo](https://img.youtube.com/vi/RYe04DXrJjs/0.jpg)](https://youtu.be/RYe04DXrJjs)
+
+
 ## External Assets
 
 ### Included
